@@ -1,0 +1,6 @@
+flask
+python-dotenv
+breeze-connect
+pandas
+openpyxl
+websocket-client
